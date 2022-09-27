@@ -1,2 +1,2 @@
 # HackerRank-Java
-HackerRank-Java-Question-Answer
+HackerRank Java Question-Answer
