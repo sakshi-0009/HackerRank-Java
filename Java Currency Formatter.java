@@ -20,7 +20,7 @@ On the third line, print China: c where  is  formatted for Chinese currency.
 On the fourth line, print France: f, where  is  formatted for French currency.
 */
 
-# Answer :
+// Answer :
 
 import java.util.*;
 import java.text.*;
