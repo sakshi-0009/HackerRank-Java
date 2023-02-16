@@ -1,6 +1,6 @@
-# Question : In this challenge, you must read 3 integers from stdin and then print them to stdout.
+// Question :- In this challenge, you must read 3 integers from stdin and then print them to stdout.
   
-# Answer :
+// Answer :-
 
 import java.util.*;
 
