@@ -1,7 +1,8 @@
-# Question : 1.Print Hello, World. on the first line.
+/* Question : 1.Print Hello, World. on the first line.
              2.Print Hello, Java. on the second line.
-  
-  # Answer : 
+*/
+
+//Answer : 
 
 public class Solution {
 
