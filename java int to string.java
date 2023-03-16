@@ -17,9 +17,8 @@ public class Solution {
    Scanner in = new Scanner(System.in);
    int n = in .nextInt();
    in.close();
-   //String s=???; Complete this line below
-
-String s = "" + n;
+   
+ String s = "" + n;
 
    
    if (n == Integer.parseInt(s)) {
@@ -33,7 +32,6 @@ String s = "" + n;
  }
 }
 
-//The following class will prevent you from terminating the code using exit(0)!
 class DoNotTerminate {
 
  public static class ExitTrappedException extends SecurityException {
