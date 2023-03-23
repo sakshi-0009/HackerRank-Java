@@ -14,7 +14,7 @@ Output two lines. The first line should contain a+b, and the second line should 
 
 */
 
-# Answer :-
+// Answer :-
 
 import java.io.*;
 import java.util.*;
